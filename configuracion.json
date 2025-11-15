@@ -1,0 +1,39 @@
+{
+    "BlogCards": {
+        "BackgroundPhoto_link": [
+            "BlogCards Link1",
+            "BlogCards Link2",
+            "BlogCards Link3"
+        ],
+        "Description": [
+            "BlogCards Description1",
+            "BlogCards Description2",
+            "BlogCards Description3"
+        ],
+        "Title": [
+            "BlogCards Titulo1",
+            "BlogCards Titulo2",
+            "BlogCards Titulo3"
+        ]
+    },
+    "BoxIntroduction": {
+        "Photo_link": "BoxIntroduction link.com"
+    },
+    "TechSkills": {
+        "Project_BackgroundPhoto_link": [
+            "TechSkills PhotoLink1 Net",
+            "TechSkills PhotoLink2",
+            "TechSkills PhotoLink3"
+        ],
+        "Project_Link": [
+            "TechSkills Link1",
+            "TechSkills Link2",
+            "TechSkills Link3"
+        ],
+        "Project_Title": [
+            "TechSkills Titulo1",
+            "TechSkills Titulo2",
+            "TechSkills Titulo3"
+        ]
+    }
+}
